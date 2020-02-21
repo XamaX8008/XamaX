@@ -237,6 +237,11 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-JavaScript {
+  background-image: url("img/JavaScript.svg");
+  width: 50px;
+}
+
 .level {
   margin: 0 0 40px;
   height: 24px;
